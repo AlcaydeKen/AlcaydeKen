@@ -19,7 +19,7 @@
 - ⚙️ Built projects using **Express, Flutter, Electron**
 - 🌱 Currently improving my skills in **JavaScript, Node.js, NoSQL, PHP, API Development and Data Analytics**
 - 🎯 Goal: To land a role where I can grow as a **Backend Developer**
-- 📖 Learning Goal: To improve my Backend Development knowledge and capabilities, also learn about DevOps and Automation in the future
+- 📖 Learning Goal: To improve my **Backend Development** knowledge and capabilities, also to learn **DevOps** in the future
 
 ---
 
