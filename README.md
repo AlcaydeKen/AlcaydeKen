@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ken 👋</h1>
 
 <p align="center">
-  <b>Fresh Graduate | Aspiring Backend Developer</b>
+  <b>Fresh Graduate | Aspiring Full Stack Developer</b>
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 ## 🚀 About Me
 
 - 🎓 Fresh graduate
-- 📊 Aspiring **Backend Developer**
-- 💻 Interested in **Web Development** and **Backend Development**
+- 📊 Aspiring **Full Stack Developer**
+- 💻 Interested in **Web Backend Development**
 - 🗄️ Experienced with **MySQL** , **SQLite** and **NoSQL**
 - ⚙️ Built projects using **Express, Flutter, Electron**
 - 🌱 Currently improving my skills in **JavaScript, Node.js, NoSQL, PHP, API Development and Data Analytics**
