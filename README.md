@@ -69,12 +69,10 @@ Included product browsing, shopping cart functionality, automatic receipt genera
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlcaydeKen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlcaydeKen&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  
+  <span style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlcaydeKen&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlcaydeKen&theme=tokyonight" alt="GitHub Streak" height="165" />
+  </span>
 </p>
 
 <p align="center">
