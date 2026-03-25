@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ken 👋</h1>
 
 <p align="center">
-  <b>Fresh Graduate | Aspiring Full Stack Developer</b>
+  <b>Aspiring Full Stack Developer</b>
 </p>
 
 <p align="center">
