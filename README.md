@@ -47,20 +47,20 @@
 
 ## 📌 Featured Projects
 
-### 📦 Inventory and Ordering Mobile Application (2026)
+### [📦 Inventory and Ordering Mobile Application (2026)](https://github.com/AlcaydeKen/Inventory-Android-App)
 - Developed a mobile application using **Flutter** and **Firebase** with secure authentication and real-time inventory tracking.  
 - Implemented CRUD functionality, a simulated ordering workflow for automated stock updates, and role-based access control for admin and standard users.
 
-### 🏛️ Brgy. Sabutan Record Management System (Thesis 2025)
+### [🏛️ Brgy. Sabutan Record Management System (Thesis 2025)]()
 - Built a desktop record management system using **Electron** and **SQLite** for local, on-premise data handling.  
 - Designed modules for citizen records, complaints, blotters, community statistics, inventory, and borrowing.  
 - The system was officially adopted by the local government of **Barangay Sabutan**.
 
-### 💇 Barber Shop Web-Based Booking System (2025)
+### [💇 Barber Shop Web-Based Booking System (2025)](https://github.com/AlcaydeKen/barbershop_booking_system)
 - Created a web-based booking platform using **PHP**, **MySQL**, and **Bootstrap CSS** for appointment scheduling.  
 - Integrated **PHPMailer** for automated email notifications and account verification, with a real-time scheduler for time-slot management and admin monitoring.
 
-### ⌨️ Kibordo: Web-Based Ordering System (2025)
+### [⌨️ Kibordo: Web-Based Ordering System (2025)](https://github.com/AlcaydeKen/ki-bordo)
 - Developed a full-stack e-commerce platform for keyboard parts using **PHP**, **HTML**, and **MySQL**.  
 - Included product browsing, shopping cart functionality, automatic receipt generation, and an admin panel for managing products and orders.
 
