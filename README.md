@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ken 👋</h1>
+<h1 align="center">🎮 Ken Jared Alcayde</h1>
 
 <p align="center">
   <b>Aspiring Full Stack Developer</b>
