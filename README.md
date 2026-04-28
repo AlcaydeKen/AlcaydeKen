@@ -1,5 +1,5 @@
 <h1 align="center">🎮 Ken Jared Alcayde</h1>
-   
+    
 <p align="center">
   <b>Aspiring Full Stack Developer</b>
 </p>
