@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Ken Jared Alcayde</h1>
     
 <p align="center">
-  <b>Aspiring Full Stack Developer</b>
+  <b>Junior Full Stack Developer</b>
 </p>
 
 <p align="center">
@@ -12,13 +12,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Fresh graduate
-- 📊 Aspiring **Full Stack Developer**
+- 📊 **Junior Full Stack Developer**
 - 💻 Interested in **Web Backend Development**
 - 🗄️ Experienced with **MySQL** , **SQLite** and **NoSQL**
 - ⚙️ Built projects using **Express, Flutter, Electron**
 - 🌱 Currently improving my skills in **JavaScript, Node.js, NoSQL, PHP, API Development and Data Analytics**
-- 🎯 Goal: To land a role where I can grow as a **Backend Developer**
+- 🎯 Goal: To learn and contribute to my current role as a **Junior Full Stack Developer**
 - 📖 Learning Goal: To improve my **Backend Development** knowledge and capabilities, also to learn **DevOps** in the future
 
 ---
